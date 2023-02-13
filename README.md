@@ -24,7 +24,7 @@ python -m ipykernel install --user --name= envname
 ```
 
 
-Open the 'AlgoTrading Assignment.ipynb' notebook in a texteditor before running it select the kernel as the virtual envirnment you just created
+Open the 'AlgoTrading Assignment.ipynb' notebook in a texteditor before running it select the kernel as the virtual envirnment you just added to the list
 
 
 
